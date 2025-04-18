@@ -5,13 +5,13 @@
       color: #333;
     }
     .nav-link:hover{
-        color: rgb(201, 85, 43) !important;
+        color: #29abe2 !important;
     }
     .nav-link:active{
-        color: rgb(201, 85, 43) !important;
+        color: #29abe2 !important;
     }
     .navbar-nav .nav-link:active{
-        color: rgb(201, 85, 43) !important;
+        color: #29abe2 !important;
     }
     .hero-section{
         background-image: url('./images/home-background.jpg');
@@ -33,7 +33,7 @@
         padding: 20px;
     }
     .border-orange{
-      border: 5px solid rgb(201, 85, 43) !important;
+      border: 5px solid #29abe2 !important;
     }
     #picture{
       width: 100%;
@@ -44,11 +44,11 @@
       
     }
     .text-orange{
-        color: rgb(201, 85, 43) !important                                                                                                                                                                                                                                                                                                                                                           ;
+        color: #29abe2 !important                                                                                                                                                                                                                                                                                                                                                           ;
     }
  
     .about-section{
-        background-image: url('./images/digital-market.jpg');
+        background-image: url('./images/about-page-background.jpg');
         background-size: cover;
         width: 100%;
         background-attachment: fixed;
@@ -60,7 +60,7 @@
         align-items: center;
     }
     .skills-section{
-        background-image: url('./images/skills-background.jpg');
+        background-image: url('./images/skills-page-background.jpg');
         background-size: cover;
         width: 100%;
         background-attachment: fixed;
@@ -90,33 +90,12 @@
       margin-bottom: 2rem;
     }
 
-    .brief-intro-section{
-      background-image: url('./images/home-background.jpg');
-      background-size: cover;
-      background-position: center;
-      padding: 40px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      padding-top: 3rem;
-      padding-bottom: 3rem;
-
-    }
-    .brief-intro-container{
-        background-color: rgba(0,0,0,0.8);
-        border-radius: 10px;
-        padding: 30px;
-        
-    }
-    .video-card{
-      border: 5px solid rgb(201, 85, 43) !important;
-    }
     button{
-        border: 1px solid rgb(201, 85, 43) !important;
-        color: rgb(201, 85, 43) !important;
+        border: 1px solid #29abe2 !important;
+        color: #29abe2 !important;
     }
     button:hover{
-        background-color: rgb(201, 85, 43) !important;
+        background-color: #29abe2 !important;
         color: white !important;
     }
     #experience{
@@ -128,8 +107,8 @@
 
     }
     #experience .card{
-      background-color: white !important;
-      color: black !important;
+      background-color: rgba(0, 0 , 0, 0.8) !important;
+      color: white !important;
     }
     .experience-container{
       background-color: rgba(0,0,0,0.8);
@@ -145,11 +124,11 @@
     .list-group-item{
       background-color: rgba(0, 0 , 0, 0.8) !important;
       color: white !important;
-      border: 1px solid rgb(201, 85, 43) !important;
+      border: 1px solid #29abe2 !important;
       padding: 30px !important;
     }
     #education, #certifications{
-      background-image: url('./images/digital\ marketing\ bg.jpg');
+      background-image: url('./images/education-page-background.jpg');
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
